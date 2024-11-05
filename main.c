@@ -16,7 +16,7 @@ int main() {
     max = (a > b)   ? a   : b;
     max = (max > c) ? max : c;
     
-    printf("%d", max);
+    printf("Максимальное число: %d", max);
 
     return 0;
 }

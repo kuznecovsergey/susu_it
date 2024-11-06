@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+// Алгоритм расчета
 int main() {
     int a = 0;
     int b = 0;

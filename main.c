@@ -7,11 +7,12 @@ int main() {
     int c = 0;
     int max = 0;
 
-    printf("Введите первое a: ");
+    printf("Введите ваше первое число a: ");
     scanf("%d", &aa);
-    printf("Введите второе b: ");
+    printf("Введите ваше второе число b: ");
     scanf("%d", &b);
-    printf("Введите третье с: ");
+    printf("Введите ваше третье число с: ");
+
     scanf("%d", &c);
     
     max = (aa > b)  ? aa  : b;
